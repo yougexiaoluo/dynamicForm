@@ -2,5 +2,5 @@
 *.css.map
 *.sass.map
 *.scss.map
-vue.config.js
-.gitignore
+./vue.config.js
+./.gitignore
