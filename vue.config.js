@@ -1,4 +1,5 @@
 module.exports = {
   key: 'test',
-  name: 'jack'
+  name: 'jack',
+  age: 18
 }
